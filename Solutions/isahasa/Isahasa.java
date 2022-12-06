@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 /**
- * Solution to the <a href="https://open.kattis.com/problems/isahasa">"Is-A? Has A? Who Knowz-A?"</a> problem on Kattis.
+ * Solution to the "Is-A? Has A? Who Knowz-A?" problem on Kattis.
  * @author Brendan Jones
  */
 public class Isahasa {

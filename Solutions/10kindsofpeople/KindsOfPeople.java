@@ -5,8 +5,7 @@ import java.util.function.Consumer;
 import static java.util.Objects.requireNonNull;
 
 /**
- * Solution for the <a href="">"10 Kinds of People"</a> problem.
- *
+ * Solution for the "10 Kinds of People" problem on Kattis.
  * @author Brendan Jones
  */
 public class KindsOfPeople {

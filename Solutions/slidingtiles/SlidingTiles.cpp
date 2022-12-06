@@ -1,3 +1,7 @@
+ /**
+ * Solution for the "Sliding Tiles" problem on Kattis.
+ * @author Brendan Jones
+ */
 #include <array>
 #include <cstdint>
 #include <iostream>
