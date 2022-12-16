@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Solution to the "3D Printer" problem on Kattis.
+ * Solution to the "3D Printed Statues" problem on Kattis.
  * @author Brendan Jones
  */
 public class Printer3D {

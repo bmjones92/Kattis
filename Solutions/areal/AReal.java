@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Solution to the "A Real Challenge" problem on Kattis.
  * @author Brendan Jones
  */
-public class ARealChallenge {
+public class AReal {
     
     public static void main(String[] args) {
         try (final var sc = new Scanner(System.in)) {

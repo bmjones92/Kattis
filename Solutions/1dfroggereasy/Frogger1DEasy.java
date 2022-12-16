@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Solution to the "Frogger 1D (easy)" problem on Kattis.
+ * Solution to the "1-D Frogger (easy)" problem on Kattis.
  * @author Brendan Jones
  */
 public class Frogger1DEasy {
