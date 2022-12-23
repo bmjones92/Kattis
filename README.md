@@ -208,3 +208,15 @@
 | [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [C++](/Solutions/quickbrownfox/quickbrownfox.cpp), [Java](/Solutions/quickbrownfox/QuickBrownFox.java) |
 | [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](/Solutions/quickestimate/QuickEstimate.java) |
 | [Quite a Problem](https://open.kattis.com/problems/quiteaproblem) | [Java](/Solutions/quiteaproblem/QuiteAProblem.java) |
+| [R2](https://open.kattis.com/problems/r2) | [Java](/Solutions/r2/R2.java) |
+| [Ragged Right](https://open.kattis.com/problems/raggedright) | [C++](/Solutions/raggedright/raggedright.cpp) |
+| [Reachable Roads](https://open.kattis.com/problems/reachableroads) | [Java](/Solutions/reachableroads/ReachableRoads.java) |
+| [Recount](https://open.kattis.com/problems/recount) | [Java](/Solutions/recount/Recount.java) |
+| [Relocation](https://open.kattis.com/problems/relocation) | [Java](/Solutions/relocation/Relocation.java) |
+| [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [C++](/Solutions/reversebinary/ReverseBinary.cpp) |
+| [Reverse Rot](https://open.kattis.com/problems/reverserot) | [Java](/Solutions/reverserot/ReverseRot.java) |
+| [Rhyming Slang](https://open.kattis.com/problems/rhyming) | [Java](/Solutions/rhyming/Rhyming.java) |
+| [Rijeci](https://open.kattis.com/problems/rijeci) | [Java](/Solutions/rijeci/Rijeci.java) |
+| [Rings](https://open.kattis.com/problems/rings2) | [Java](/Solutions/rings2/Rings2.java) |
+| [Rock, Scissors, Paper](https://open.kattis.com/problems/rockscissorspaper) | [Java](/Solutions/rockscissorspaper/RockScissorsPaper.java) |
+| [Roll Call](https://open.kattis.com/problems/rollcall) | [Java](/Solutions/rollcall/RollCall.java) |
