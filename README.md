@@ -74,3 +74,137 @@
 | [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [C++](/Solutions/conundrum/conundrum.cpp) |
 | [Cudoviste](https://open.kattis.com/problems/cudoviste) | [Java](/Solutions/cudoviste/Cudoviste.java) |
 | [Curse the Darkness](https://open.kattis.com/problems/cursethedarkness) | [Java](/Solutions/cursethedarkness/CurseTheDarkness.java) |
+| [Datum](https://open.kattis.com/problems/datum) | [Java](/Solutions/datum/Datum.java) |
+| [Daylight Saving Time](https://open.kattis.com/problems/dst) | [Java](/Solutions/dst/DST.java) |
+| [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [Java](/Solutions/deathknight/DeathKnight.java) |
+| [Dejavu](https://open.kattis.com/problems/dejavu) | [Java](/Solutions/dejavu/Dejavu.java) |
+| [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [Java](/Solutions/detaileddifferences/DetailedDifferences.java) |
+| [Dice Cup](https://open.kattis.com/problems/dicecup) | [Java](/Solutions/dicecup/DiceCup.java) |
+| [Dice Game](https://open.kattis.com/problems/dicegame) | [C++](/Solutions/dicegame/dicegame.cpp) |
+| [Different Distances](https://open.kattis.com/problems/differentdistances) | [Java](/Solutions/differentdistances/DifferentDistances.java) |
+| [Digital Display](https://open.kattis.com/problems/display) | [Java](/Solutions/display/Display.java) |
+| [Disastrous Doubling](https://open.kattis.com/problems/disastrousdoubling) | [Java](/Solutions/disastrousdoubling/DisastrousDoubling.java) |
+| [Dominant Strings](https://open.kattis.com/problems/dominant) | [C++](/Solutions/dominant/dominant.cpp) |
+| [Doorman](https://open.kattis.com/problems/doorman) | [Java](/Solutions/doorman/Doorman.java) |
+| [DRM Messages](https://open.kattis.com/problems/drmmessages) | [Java](/Solutions/drmmessages/DRMMessages.java) |
+| [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [Java](/Solutions/dyslectionary/Dyslectionary.java) |
+| [Echo Echo Echo](https://open.kattis.com/problems/echoechoecho) | [Java](/Solutions/echoechoecho/EchoEchoEcho.java) |
+| [Eight Queens](https://open.kattis.com/problems/8queens) | [C++](/Solutions/8queens/eightqueens.cpp) |
+| [Eligibility](https://open.kattis.com/problems/eligibility) | [Java](/Solutions/eligibility/Eligibility.java) |
+| [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [C++](/Solutions/encodedmessage/encodedmessage.cpp) |
+| [Engineering English](https://open.kattis.com/problems/engineeringenglish) | [Java](/Solutions/engineeringenglish/EngineeringEnglish.java) |
+| [Erase Securely](https://open.kattis.com/problems/erase) | [C++](/Solutions/erase/erase.cpp) |
+| [Esej](https://open.kattis.com/problems/esej) | [Java](/Solutions/esej/Esej.java) |
+| [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [Java](/Solutions/estimatingtheareaofacircle/EstimatingTheAreaOfACircle.java) |
+| [Faktor](https://open.kattis.com/problems/faktor) | [Java](/Solutions/faktor/Faktor.java) |
+| [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [Java](/Solutions/falsesecurity/FalseSecurity.java) |
+| [Filip](https://open.kattis.com/problems/filip) | [Java](/Solutions/filip/Filip.java) |
+| [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [Java](/Solutions/fizzbuzz/FizzBuzz.java) |
+| [Flow Layout](https://open.kattis.com/problems/flowlayout) | [Java](/Solutions/flowlayout/FlowLayout.java) |
+| [Free Food](https://open.kattis.com/problems/freefood) | [Java](/Solutions/freefood/FreeFood.java) |
+| [Fun House](https://open.kattis.com/problems/funhouse) | [Java](/Solutions/funhouse/FunHouse.java) |
+| [Game of Throwns](https://open.kattis.com/problems/throwns) | [Java](/Solutions/throwns/Throwns.java) |
+| [Game Rank](https://open.kattis.com/problems/gamerank) | [Java](/Solutions/gamerank/GameRank.java) |
+| [Getting Gold](https://open.kattis.com/problems/gold) | [Java](/Solutions/gold/Gold.java) |
+| [Get to Work](https://open.kattis.com/problems/gettowork) | [Java](/Solutions/gettowork/GetToWork.java) |
+| [GlitchBot](https://open.kattis.com/problems/glitchbot) | [Java](/Solutions/glitchbot/GlitchBot.java) |
+| [Goat Rope](https://open.kattis.com/problems/goatrope) | [Java](/Solutions/goatrope/GoatRope.java) |
+| [Goblin Garden Guards](https://open.kattis.com/problems/goblingardenguards) | [C++](/Solutions/goblingardenguards/goblingardenguards.cpp) |
+| [Good Morning!](https://open.kattis.com/problems/goodmorning) | [Java](/Solutions/goodmorning/GoodMorning.java) |
+| [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [Java](/Solutions/grassseed/GrassSeed.java) |
+| [Grid](https://open.kattis.com/problems/grid) | [Java](/Solutions/grid/Grid.java) |
+| [Guessing Game](https://open.kattis.com/problems/guessinggame) | [Java](/Solutions/guessinggame/GuessingGame.java) |
+| [Guess the Number](https://open.kattis.com/problems/guess) | [Java](/Solutions/guess/Guess.java) |
+| [Hanging out on the Terrace](https://open.kattis.com/problems/hangingout) | [Java](/Solutions/hangingout/HangingOut.java) |
+| [Height Ordering](https://open.kattis.com/problems/height) | [Java](/Solutions/height/Height.java) |
+| [Hello world!](https://open.kattis.com/problems/hello) | [C++](/Solutions/hello/hello.cpp) |
+| [Herman](https://open.kattis.com/problems/herman) | [Java](/Solutions/herman/Herman.java) |
+| [Hidden Password](https://open.kattis.com/problems/hidden) | [Java](/Solutions/hidden/Hidden.java) |
+| [Hiding Places](https://open.kattis.com/problems/hidingplaces) | [Java](/Solutions/hidingplaces/HidingPlaces.java) |
+| [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [Haskell](/Solutions/hissingmicrophone/hissingmicrophone.hs), [Java](/Solutions/hissingmicrophone/HissingMicrophone.java) |
+| [Hitting the Targets](https://open.kattis.com/problems/hittingtargets) | [C++](/Solutions/hittingtargets/hittingtargets.cpp) |
+| [How many Digits?](https://open.kattis.com/problems/howmanydigits) | [Java](/Solutions/howmanydigits/HowManyDigits.java) |
+| [iBoard](https://open.kattis.com/problems/iboard) | [Java](/Solutions/iboard/IBoard.java) |
+| [I Can Guess the Data Structure!](https://open.kattis.com/problems/guessthedatastructure) | [C++](/Solutions/guessthedatastructure/guessthedatastructure.cpp) |
+| [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [Java](/Solutions/icpcawards/ICPCAwards.java) |
+| [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [Java](/Solutions/maptiles2/MapTiles2.java) |
+| [Image Processing](https://open.kattis.com/problems/imageprocessing) | [Java](/Solutions/imageprocessing/ImageProcessing.java) |
+| [Imperial Measurement](https://open.kattis.com/problems/measurement) | [Java](/Solutions/measurement/Measurement.java) |
+| [Integer Lists](https://open.kattis.com/problems/integerlists) | [Java](/Solutions/integerlists/IntegerLists.java) |
+| [Inverse Factorial](https://open.kattis.com/problems/inversefactorial) | [Java](/Solutions/inversefactorial/InverseFactorial.java) |
+| [Is-A? Has-A? Who Knowz-A?](https://open.kattis.com/problems/isahasa) | [Java](/Solutions/isahasa/Isahasa.java) |
+| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween) | [Java](/Solutions/isithalloween/IsItHalloween.java) |
+| [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [Java](/Solutions/everywhere/Everywhere.java) |
+| [I Wanna Be The Very Best](https://open.kattis.com/problems/iwannabe) | [Java](/Solutions/iwannabe/IWannabe.java) |
+| [Jabuke](https://open.kattis.com/problems/jabuke) | [Java](/Solutions/jabuke/Jabuke.java) |
+| [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [Java](/Solutions/judgingmoose/JudgingMoose.java) |
+| [Jumbled Communication](https://open.kattis.com/problems/communication) | [Java](/Solutions/communication/Communication.java) |
+| [Jumbled Compass](https://open.kattis.com/problems/compass) | [Java](/Solutions/compass/Compass.java) |
+| [Jury Jeopardy](https://open.kattis.com/problems/juryjeopardy) | [Java](/Solutions/juryjeopardy/JuryJeopardy.java) |
+| [Karte](https://open.kattis.com/problems/karte) | [Java](/Solutions/karte/Karte.java) |
+| [Kemija](https://open.kattis.com/problems/kemija08) | [Java](/Solutions/kemija08/Kemija08.java) |
+| [Kornislav](https://open.kattis.com/problems/kornislav) | [Java](/Solutions/kornislav/Kornislav.java) |
+| [Ladder](https://open.kattis.com/problems/ladder) | [C++](/Solutions/ladder/ladder.cpp) |
+| [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [Java](/Solutions/laptopsticker/LaptopSticker.java) |
+| [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [Java](/Solutions/lastfactorialdigit/LastFactorialDigit.java) |
+| [Left Beehind](https://open.kattis.com/problems/leftbeehind) | [Java](/Solutions/leftbeehind/LeftBehind.java) |
+| [License to Launch](https://open.kattis.com/problems/licensetolaunch) | [Rust](/Solutions/licensetolaunch/licensetolaunch.rs) |
+| [Line Them Up](https://open.kattis.com/problems/lineup) | [C++](/Solutions/lineup/lineup.cpp) |
+| [Logo](https://open.kattis.com/problems/logo) | [C++](/Solutions/logo/logo.cpp) |
+| [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [Rust](/Solutions/luhnchecksum/luhnchecksum.rs) |
+| [Mars Window](https://open.kattis.com/problems/marswindow) | [Java](/Solutions/marswindow/MarsWindow.java) |
+| [Mastering Mastermind](https://open.kattis.com/problems/mastermind) | [Java](/Solutions/mastermind/Mastermind.java) |
+| [Metaprogramming](https://open.kattis.com/problems/metaprogramming) | [Java](/Solutions/metaprogramming/Metaprogramming.java) |
+| [Mia](https://open.kattis.com/problems/mia) | [Java](/Solutions/mia/Mia.java) |
+| [Minimum Scalar Product](https://open.kattis.com/problems/minimumscalar) | [Java](/Solutions/minimumscalar/MinimumScalar.java) |
+| [Mirror Images](https://open.kattis.com/problems/mirror) | [Java](/Solutions/mirror/Mirror.java) |
+| [Misa](https://open.kattis.com/problems/misa) | [Java](/Solutions/misa/Misa.java) |
+| [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [Java](/Solutions/missingnumbers/MissingNumbers.java) |
+| [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [C++](/Solutions/mixedfractions/mixedfractions.cpp) |
+| [Mjehuric](https://open.kattis.com/problems/mjehuric) | [Java](/Solutions/mjehuric/Mjehuric.java) |
+| [Modulo](https://open.kattis.com/problems/modulo) | [C++](/Solutions/modulo/modulo.cpp) |
+| [Music Your Way](https://open.kattis.com/problems/musicyourway) | [Java](/Solutions/musicyourway/MusicYourWay.java) |
+| [Nasty Hacks](https://open.kattis.com/problems/nastyhacks) | [Java](/Solutions/nastyhacks/NastyHacks.java) |
+| [Natjecanje](https://open.kattis.com/problems/natjecanje) | [Java](/Solutions/natjecanje/Natjecanje.java) |
+| [Natrij](https://open.kattis.com/problems/natrij) | [Java](/Solutions/natrij/Natrij.java) |
+| [Nine Knights](https://open.kattis.com/problems/nineknights) | [Java](/Solutions/nineknights/NineKnights.java) |
+| [No Duplicates](https://open.kattis.com/problems/nodup) | [Java](/Solutions/nodup/NoDup.java) |
+| [Not Amused](https://open.kattis.com/problems/notamused) | [Java](/Solutions/notamused/NotAmused.java) |
+| [N-Puzzle](https://open.kattis.com/problems/npuzzle) | [Java](/Solutions/npuzzle/NPuzzle.java) |
+| [Odd Gnome](https://open.kattis.com/problems/oddgnome) | [Java](/Solutions/oddgnome/OddGnome.java) |
+| [Oddities](https://open.kattis.com/problems/oddities) | [C++](/Solutions/oddities/oddities.cpp) |
+| [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [Java](/Solutions/oddmanout/OddManOut.java) |
+| [Oktalni](https://open.kattis.com/problems/oktalni) | [Java](/Solutions/oktalni/Oktalni.java) |
+| [Okvir](https://open.kattis.com/problems/okvir) | [Java](/Solutions/okvir/Okvir.java) |
+| [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [Java](/Solutions/onechicken/OneChicken.java) |
+| [Open Source](https://open.kattis.com/problems/opensource) | [Java](/Solutions/opensource/OpenSource.java) |
+| [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [C++](/Solutions/parsinghex/parsinghex.cpp) |
+| [Pebble Solitaire](https://open.kattis.com/problems/pebblesolitaire) | [Java](/Solutions/pebblesolitaire/PebbleSolitaire.java) |
+| [Peg](https://open.kattis.com/problems/peg) | [Java](/Solutions/peg/Peg.java) |
+| [Peragrams](https://open.kattis.com/problems/peragrams) | [Java](/Solutions/peragrams/Peragrams.java) |
+| [Periodic Strings](https://open.kattis.com/problems/periodicstrings) | [Java](/Solutions/periodicstrings/PeriodicStrings.java) |
+| [Permutation Encryption](https://open.kattis.com/problems/permutationencryption) | [Java](/Solutions/permuationencryption/PermutationEncryption.java) |
+| [Permuted Arithmetic Sequence](https://open.kattis.com/problems/permutedarithmeticsequence) | [Java](/Solutions/permutedarithmeticsequence/PermutedArithmeticSequence.java) |
+| [Pervasive Heart Monitor](https://open.kattis.com/problems/pervasiveheartmonitor) | [Java](/Solutions/pervasiveheartmonitor/PervasiveHeartMonitor.java) |
+| [Pet](https://open.kattis.com/problems/pet) | [C++](/Solutions/pet/pet.cpp) |
+| [Phone List](https://open.kattis.com/problems/phonelist) | [C++](/Solutions/phonelist/PhoneList.cpp) |
+| [Pig Latin](https://open.kattis.com/problems/piglatin) | [Java](/Solutions/piglatin/PigLatin.java) |
+| [Pivot](https://open.kattis.com/problems/pivot) | [C++](/Solutions/pivot/pivot.cpp) |
+| [Pizza Crust](https://open.kattis.com/problems/pizza2) | [Java](/Solutions/pizza2/Pizza2.java) |
+| [Planina](https://open.kattis.com/problems/planina) | [Java](/Solutions/planina/Planina.java) |
+| [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [C++](/Solutions/plantingtrees/plantingtrees.cpp) |
+| [Platforme](https://open.kattis.com/problems/platforme) | [Java](/Solutions/platforme/Platforme.java) |
+| [Poker Hand](https://open.kattis.com/problems/pokerhand) | [Java](/Solutions/pokerhand/PokerHand.java) |
+| [Pot](https://open.kattis.com/problems/pot) | [Java](/Solutions/pot/Pot.java) |
+| [Prerequisites?](https://open.kattis.com/problems/prerequisites) | [Java](/Solutions/prerequisites/Prerequisites.java) |
+| [Primary Register](https://open.kattis.com/problems/register) | [Java](/Solutions/register/Register.java) |
+| [Printing Costs](https://open.kattis.com/problems/printingcosts) | [Java](/Solutions/printingcosts/PrintingCosts.java) |
+| [Progressive Scramble](https://open.kattis.com/problems/progressivescramble) | [Java](/Solutions/progressivescramble/ProgressiveScramble.java) |
+| [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [Java](/Solutions/provincesandgold/ProvincesAndGold.java) |
+| [Prva](https://open.kattis.com/problems/prva) | [Java](/Solutions/prva/Prva.java) |
+| [Ptice](https://open.kattis.com/problems/ptice) | [Java](/Solutions/ptice/Ptice.java) |
+| [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [Haskell](/Solutions/quadrant/quadrant.hs), [Java](/Solutions/quadrant/Quadrant.java), [Rust](/Solutions/quadrant/quadrant.rs) |
+| [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [Java](/Solutions/qaly/QALY.java) |
+| [Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [C++](/Solutions/quickbrownfox/quickbrownfox.cpp), [Java](/Solutions/quickbrownfox/QuickBrownFox.java) |
+| [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [Java](/Solutions/quickestimate/QuickEstimate.java) |
+| [Quite a Problem](https://open.kattis.com/problems/quiteaproblem) | [Java](/Solutions/quiteaproblem/QuiteAProblem.java) |
