@@ -262,3 +262,33 @@
 | [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [Java](/Solutions/sumsquareddigits/SumSquaredDigits.java) |
 | [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [Java](/Solutions/symmetricorder/SymmetricOrder.java) |
 | [Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [Java](/Solutions/synchronizinglists/SynchronizingLists.java) |
+| [T9 Spelling](https://open.kattis.com/problems/t9spelling) | [Java](/Solutions/t9spelling/T9Spelling.java) |
+| [Tai's Formula](https://open.kattis.com/problems/taisformula) | [Java](/Solutions/taisformula/TaisFormula.java) |
+| [Take Two Stones](https://open.kattis.com/problems/twostones) | [Java](/Solutions/twostones/TwoStones.java) |
+| [Tarifa](https://open.kattis.com/problems/tarifa) | [Java](/Solutions/tarifa/Tarifa.java) |
+| [Tetris](https://open.kattis.com/problems/tetris) | [Java](/Solutions/tetris/Tetris.java) |
+| [Text Encryption](https://open.kattis.com/problems/textencryption) | [Java](/Solutions/textencryption/TextEncryption.java) |
+| [Text Messaging Outrage](https://open.kattis.com/problems/textmessaging) | [Java](/Solutions/textmessaging/TextMessaging.java) |
+| [Texture Analysis](https://open.kattis.com/problems/textureanalysis) | [Java](/Solutions/textureanalysis/TextureAnalysis.java) |
+| [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [Java](/Solutions/humancannonball2/HumanCannonball2.java) |
+| [The Dragon of Loowater](https://open.kattis.com/problems/loowater) | [C++](/Solutions/loowater/loowater.cpp) |
+| [The Easiest Problem is this One](https://open.kattis.com/problems/easiest) | [Java](/Solutions/easiest/Easiest.java) |
+| [The Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [Java](/Solutions/keytocrypto/KeyToCrypto.java) |
+| [The Maze Makers](https://open.kattis.com/problems/mazemakers) | [Java](/Solutions/mazemakers/MazeMakers.java) |
+| [The Owl and the Fox](https://open.kattis.com/problems/owlandfoxs) | [Java](/Solutions/owlandfox/OwlAndFox.java) |
+| [This Ain't Your Grandpa's Checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | [Java](/Solutions/thisaintyourgrandpascheckerboard/ThisAintYourGrandpasCheckerboard.java) |
+| [Timebomb](https://open.kattis.com/problems/timebomb) | [Java](/Solutions/timebomb/Timebomb.java) |
+| [Time Travelling Temperatures](https://open.kattis.com/problems/temperature) | [Java](/Solutions/temperature/Temperature.java) |
+| [Toilet Seat](https://open.kattis.com/problems/toilet) | [Java](/Solutions/toilet/Toilet.java) |
+| [ToLower](https://open.kattis.com/problems/tolower) | [Java](/Solutions/tolower/ToLower.java) |
+| [Touchscreen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [Java](/Solutions/touchscreenkeyboard/TouchscreenKeyboard.java) |
+| [Train Passengers](https://open.kattis.com/problems/trainpassengers) | [Java](/Solutions/trainpassengers/TrainPassengers.java) |
+| [Travelling Salesperson 2D](https://open.kattis.com/problems/tsp) | [Java](/Solutions/tsp/TSP.java) |
+| [Treasure Hunt](https://open.kattis.com/problems/treasurehunt) | [Java](/Solutions/treasurehunt/TreasureHunt.java) |
+| [Tri](https://open.kattis.com/problems/tri) | [C++](/Solutions/tri/tri.cpp) |
+| [Trik](https://open.kattis.com/problems/trik) | [Java](/Solutions/trik/Trik.java) |
+| [Triple Texting](https://open.kattis.com/problems/tripletexting) | [Rust](/Solutions/tripletexting/tripletexting.rs) |
+| [Tri Tiling](https://open.kattis.com/problems/tritiling) | [Java](/Solutions/tritiling/TriTiling.java) |
+| [Troll Hunt](https://open.kattis.com/problems/trollhunt) | [Java](/Solutions/trollhunt/TrollHunt.java) |
+| [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [Java](/Solutions/zoo/Zoo.java) |
+| [Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | [Java](/Solutions/unlockpattern/UnlockPattern.java) |

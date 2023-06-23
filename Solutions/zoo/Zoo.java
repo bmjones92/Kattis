@@ -7,7 +7,7 @@ import java.util.TreeMap;
  * Solution to the "Un-bear-able Zoo" problem on Kattis.
  * @author Brendan Jones
  */
-public class UnbearableZoo {
+public class Zoo {
 
     /**
      * Processes a single test case.
