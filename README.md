@@ -292,3 +292,9 @@
 | [Troll Hunt](https://open.kattis.com/problems/trollhunt) | [Java](/Solutions/trollhunt/TrollHunt.java) |
 | [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [Java](/Solutions/zoo/Zoo.java) |
 | [Unlock Pattern](https://open.kattis.com/problems/unlockpattern) | [Java](/Solutions/unlockpattern/UnlockPattern.java) |
+| [Vacuumba](https://open.kattis.com/problems/vacuumba) | [Java](/Solutions/vacuumba/Vacuumba.java) |
+| [Variable Arithmetic](https://open.kattis.com/problems/variablearithmetic) | [Java](/Solutions/variablearithmetic/VariableArithmetic.java) |
+| [Vauvau](https://open.kattis.com/problems/vauvau) | [Java](/Solutions/vauvau/Vauvau.java) |
+| [Veci](https://open.kattis.com/problems/veci) | [Java](/Solutions/veci/Veci.java) |
+| [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [Java](/Solutions/queens/Queens.java) |
+| [Volim](https://open.kattis.com/problems/volim) | [Java](/Solutions/volim/Volim.java) |
