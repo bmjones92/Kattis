@@ -298,3 +298,14 @@
 | [Veci](https://open.kattis.com/problems/veci) | [Java](/Solutions/veci/Veci.java) |
 | [Verify This, Your Majesty](https://open.kattis.com/problems/queens) | [Java](/Solutions/queens/Queens.java) |
 | [Volim](https://open.kattis.com/problems/volim) | [Java](/Solutions/volim/Volim.java) |
+| [Weak Vertices](https://open.kattis.com/problems/weakvertices) | [Java](/Solutions/weakvertices/WeakVertices.java) |
+| [Welcome to Code Jam (Easy)](https://open.kattis.com/problems/welcomeeasy) | [Java](/Solutions/welcomeeasy/WelcomeEasy.java) |
+| [WERTYU](https://open.kattis.com/problems/wertyu) | [Java](/Solutions/wertyu/WERTYU.java) |
+| [Wet Tiles](https://open.kattis.com/problems/wettiles) | [Java](/Solutions/wettiles/WetTiles.java) |
+| [What does the fox say](https://open.kattis.com/problems/whatdoesthefoxsay) | [Java](/Solutions/whatdoesthefoxsay/WhatDoesTheFoxSay.java) |
+| [Which Base is it Anyway?](https://open.kattis.com/problems/whichbase) | [Java](/Solutions/whichbase/WhichBase.java) |
+| [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [Java](/Solutions/whichisgreater/WhichIsGreater.java) |
+| [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Java](/Solutions/wordsfornumbers/WordsForNumbers.java) |
+| [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones) | [Java](/Solutions/yinyangstones/YinYangStones.java) |
+| [Yoda](https://open.kattis.com/problems/yoda) | [Java](/Solutions/yoda/Yoda.java) |
+| [Zamka](https://open.kattis.com/problems/zamka) | [Java](/Solutions/zamka/Zamka.java) |
