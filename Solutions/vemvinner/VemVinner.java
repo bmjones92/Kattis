@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Solution to the "Who wins?" problem on Kattis.
  * @author Brendan Jones
  */
-public class Vemvinner {
+public class VemVinner {
 
     /**
      * The size of the tic-tac-toe board.
@@ -66,7 +66,7 @@ public class Vemvinner {
             // There is guaranteed to be at most one winner per test case. The winner can be determined by checking the
             // minimum and maximum scores.
             if (minScore == SCORE_X * BOARD_SIZE) {
-                System.out.println("Jonah har vunnit");
+                System.out.println("Johan har vunnit");
             } else if (maxScore == SCORE_O * BOARD_SIZE) {
                 System.out.println("Abdullah har vunnit");
             } else {
