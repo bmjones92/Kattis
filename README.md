@@ -305,6 +305,7 @@
 | [What does the fox say](https://open.kattis.com/problems/whatdoesthefoxsay) | [Java](/Solutions/whatdoesthefoxsay/WhatDoesTheFoxSay.java) |
 | [Which Base is it Anyway?](https://open.kattis.com/problems/whichbase) | [Java](/Solutions/whichbase/WhichBase.java) |
 | [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [Java](/Solutions/whichisgreater/WhichIsGreater.java) |
+| [Who wins?](https://open.kattis.com/problems/vemvinner) | [Java](/Solutions/vemvinner/VemVinner.java) |
 | [Words for Numbers](https://open.kattis.com/problems/wordsfornumbers) | [Java](/Solutions/wordsfornumbers/WordsForNumbers.java) |
 | [Yin and Yang Stones](https://open.kattis.com/problems/yinyangstones) | [Java](/Solutions/yinyangstones/YinYangStones.java) |
 | [Yoda](https://open.kattis.com/problems/yoda) | [Java](/Solutions/yoda/Yoda.java) |
